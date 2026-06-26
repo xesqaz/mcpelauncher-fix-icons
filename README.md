@@ -15,7 +15,7 @@
 Команда для установки:
 
 ```bash
-curl -sL [https://raw.githubusercontent.com/xesqaz/mcpelauncher-fix-icons/main/install.sh](https://raw.githubusercontent.com/xesqaz/mcpelauncher-fix-icons/main/install.sh) | bash
+curl -sL https://raw.githubusercontent.com/xesqaz/mcpelauncher-fix-icons/main/install.sh | bash
 ```
 
 Примечание: Если после установки у открытого окна всё ещё старая иконка, просто перезапустите игру.
@@ -25,7 +25,7 @@ curl -sL [https://raw.githubusercontent.com/xesqaz/mcpelauncher-fix-icons/main/i
 Команда для удаления фикса и возврата к дефолтным настройкам Flatpak:
 
 ```bash
-curl -sL [https://raw.githubusercontent.com/xesqaz/mcpelauncher-fix-icons/main/reset.sh](https://raw.githubusercontent.com/xesqaz/mcpelauncher-fix-icons/main/reset.sh) | bash
+curl -sL https://raw.githubusercontent.com/xesqaz/mcpelauncher-fix-icons/main/reset.sh | bash
 ```
 
 ---
