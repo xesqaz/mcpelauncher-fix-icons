@@ -1,0 +1,13 @@
+[Desktop Entry]
+GenericName=
+Icon=/home/acroswift/Оформление/Minecraft_Bedrock_2023.svg
+Name=io.mrarm.mcpelauncher
+NoDisplay=true
+PrefersNonDefaultGPU=false
+StartupNotify=true
+StartupWMClass=mcpelauncher-client
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=

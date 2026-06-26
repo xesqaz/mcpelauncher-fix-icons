@@ -1,0 +1,17 @@
+[Desktop Entry]
+Categories=Game;
+Comment=A Minecraft: Bedrock Edition (earlier: Pocket Edition launcher)
+Exec=env QT_QPA_PLATFORM=xcb SDL_VIDEODRIVER=x11 mcpelauncher-ui-qt %U
+Icon=io.mrarm.mcpelauncher-ui-qt
+MimeType=application/zip
+Name=Minecraft Bedrock Launcher
+NoDisplay=true
+Path=
+PrefersNonDefaultGPU=false
+StartUpWMClass=io.mrarm.mcpelauncher-ui-qt
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
