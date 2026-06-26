@@ -12,7 +12,7 @@
 
 ## Установка
 
-Для установки выполните команду ниже в терминале. Скрипт скачает актуальные файлы из репозитория и распределит их по нужным директориям:
+Команда для установки:
 
 ```bash
 curl -sL [https://raw.githubusercontent.com/xesqaz/mcpelauncher-fix-icons/main/install.sh](https://raw.githubusercontent.com/xesqaz/mcpelauncher-fix-icons/main/install.sh) | bash
@@ -22,7 +22,7 @@ curl -sL [https://raw.githubusercontent.com/xesqaz/mcpelauncher-fix-icons/main/i
 
 ## Удаление (Откат)
 
-Для полного удаления фикса и возврата к стандартным настройкам ярлыка от Flatpak выполните скрипт сброса. Он удалит локальные файлы и принудительно пересоберет кэш:
+Команда для удаления фикса и возврата к дефолтным настройкам Flatpak:
 
 ```bash
 curl -sL [https://raw.githubusercontent.com/xesqaz/mcpelauncher-fix-icons/main/reset.sh](https://raw.githubusercontent.com/xesqaz/mcpelauncher-fix-icons/main/reset.sh) | bash
